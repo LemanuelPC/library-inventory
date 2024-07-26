@@ -19,7 +19,7 @@ This project is a simple web application for managing a library's book inventory
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-private-repo-url>
+git clone <repo-url>
 cd library-inventory
 ````
 ### Step 2: Build the Project
