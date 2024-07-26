@@ -24,7 +24,7 @@ cd library-inventory
 ````
 ### Step 2: Build the Project
 ```bash
-mvn clean package
+mvn clean package -DskipTests
 ````
 ### Step 3: Run the Application with Docker
 ```bash
