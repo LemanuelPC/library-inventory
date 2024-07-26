@@ -13,6 +13,7 @@ This project is a simple web application for managing a library's book inventory
 
 ## Prerequisites
 - JDK 17 or higher
+- Maven
 - Docker and Docker Compose
 
 ## Setup and Running the Application
